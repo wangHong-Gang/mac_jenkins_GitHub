@@ -1,0 +1,2 @@
+# mac_jenkins_GitHub
+在mac上配置jenkins与GitHub
